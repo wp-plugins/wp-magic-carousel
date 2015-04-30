@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: WP magic Carousel
+Plugin Name: WP Magic Carousel
 Plugin URI: http://hf-it.org/plugins
 Author: HelpFul IT
 Author URI: http://hf-it.org/
