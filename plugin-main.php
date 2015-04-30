@@ -2,7 +2,7 @@
 /*
 Plugin Name: WP magic Carousel
 Plugin URI: http://hf-it.org/plugins
-Description: This is Wp magic carousel plugin. When you activate it in your WordPress site it will make a slider area with header & description text.
+Description:
 Author: HelpFul IT
 Author URI: http://hf-it.org/
 Version: 1.0
