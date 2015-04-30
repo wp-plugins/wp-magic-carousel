@@ -32,7 +32,7 @@ e.g.
 3.  Option Panel &  Images Upload
 4.  Carousel shortcode in your visual editor
 5.  Useing Carousel shortcode
-6.  Live Demo 2
+6.  Useing Carousel shortcode
 7.  Live Demo 3
 8.  Live Demo 4
 9.  Live Demo 5
