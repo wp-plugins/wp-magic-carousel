@@ -1,0 +1,52 @@
+
+#hf_thumbnails ul li{
+    margin: 0;   
+}
+#hf_thumbnails ul li .athumb img{
+    border-radius: 0;
+    box-shadow: none;
+    margin: 2px;
+}
+#hf_dots ul li{
+    margin: 0;   
+}
+#hf_dots ul li .athumb img{
+    border-radius: 0;
+    box-shadow: none;
+    margin: 2px;
+}
+#hf_custom ul li{
+    margin: 0;   
+}
+#hf_custom ul li .athumb img{
+    border-radius: 0;
+    box-shadow: none;
+    margin: 2px;
+}
+
+#hf_off ul li{
+    margin: 0;   
+}
+#hf_off ul li .athumb img{
+    border-radius: 0;
+    box-shadow: none;
+    margin: 2px;
+}
+
+div .acar-header acspan{
+    font-size: 40px;
+    margin: 0;
+    padding: 0;  
+    font-family: sans-serif;
+}
+    
+.acar-header, .acar-title:before {
+  background: none repeat scroll 0 0 #FCFCFC;
+  bottom: 0;
+  content: "";
+  width: 100%;
+  text-align: center;
+}
+.headings{
+    font-family: sans-serif;
+}
