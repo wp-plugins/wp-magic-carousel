@@ -27,7 +27,7 @@ e.g.
 
 == Screenshots ==
 
-1.  Logo
+1.  Live Demo
 2.  Option Panel 
 3.  Option Panel &  Images Upload
 4.  Carousel shortcode in your visual editor
