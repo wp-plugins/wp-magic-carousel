@@ -5,7 +5,7 @@ Plugin URI: http://hf-it.org/plugins
 Description: This is Wp magic carousel plugin. When you activate it in your WordPress site it will make a slider area with header & description text. After upload slider images & put the shortcode in any page it will create a magic slider which is really looking nice.
 Author: HelpFul IT
 Author URI: http://hf-it.org/
-Version: 1.01
+Version: 1.0
 */
 if (!function_exists('a_carousel_language_supported')) {
 function a_carousel_language_supported() {  
