@@ -26,17 +26,17 @@ e.g.
 
 
 == Screenshots ==
-
-1.  Live Demo
-2.  Option Panel 
-3.  Option Panel &  Images Upload
-4.  Carousel shortcode in your visual editor
-5.  Useing Carousel shortcode
-6.  Useing Carousel shortcode
-7.  Add content
-8.  Paste content here
-9.  Publish Content
-10. Finish & this is Live
+  
+1.  <strong>Live Demo</strong>
+2.  Option Panel<strong></strong> 
+3.  Option Panel &  Images Upload<strong></strong>
+4.  Carousel shortcode in your visual editor<strong></strong>
+5.  Useing Carousel shortcode<strong></strong>
+6.  Useing Carousel shortcode<strong></strong>
+7.  Add content<strong></strong>
+8.  Paste content here<strong></strong>
+9.  Publish Content<strong></strong>
+10. Finish & this is Live<strong></strong>
 
 
 
