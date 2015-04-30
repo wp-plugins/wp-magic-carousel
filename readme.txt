@@ -1,4 +1,4 @@
-=== WP magic Carousel  ===
+=== WP Magic Carousel  ===
 Tags: awesome wp carousel, free magic carousel  ,best carousel ,wordpress carousel  ,wp carousel  ,awesome carousel  ,best wordpress carousel  ,free carousel.
 Requires at least: 3.0.1
 Tested up to: 3.4
