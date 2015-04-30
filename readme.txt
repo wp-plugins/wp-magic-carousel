@@ -11,7 +11,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Description ==
 
 This is Wp magic carousel plugin. When you activate it in your WordPress site it will make a slider area with header & description text.After upload slider images & put the shortcode in any page it will create a magic slider which is really looking nice.
-
 Demo: http://hf-it.org/plugins/carousel-test/
 
 
