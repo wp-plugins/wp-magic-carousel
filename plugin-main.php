@@ -2,7 +2,6 @@
 /*
 Plugin Name: WP magic Carousel
 Plugin URI: http://hf-it.org/plugins
-Description:
 Author: HelpFul IT
 Author URI: http://hf-it.org/
 Version: 1.0
